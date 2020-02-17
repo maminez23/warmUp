@@ -53,7 +53,7 @@ function searchMates(query, array){
           for (var key in array[i]){
       }
 
-
+// I did't finish it because I did't understand what type of query I have to take in consideration
 
 
 
