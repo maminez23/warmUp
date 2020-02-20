@@ -2,6 +2,7 @@
 // ex isArray([1,2])=>true
 //    isArray(5)=>false
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  function isArray(array){
 
@@ -52,6 +53,13 @@ function first(array, n) {
     return arr;
 }
 >>>>>>> 5376b93bff4e63df9dd0c62060f660e0e35ed9dc
+=======
+
+//2-Write a JavaScript function to get the first n element of an array.
+//ex  first([1,2,3],1)=>[1]
+//    first([1,2,3,4]2)=>[1,2]
+
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
 //3- Write a JavaScript function to convert an object into a list of `[key, value]` pairs
 //ex: convert({name:'ahmed',age:20})=>[['name','ahmed'],['age', 20]]
 

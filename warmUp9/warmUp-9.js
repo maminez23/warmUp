@@ -6,12 +6,9 @@ var nameFemales = ['Nouha', 'Siwar'];
 var nameMales = ['Fras', 'Amine','Aymen', 'Omar', 'Moetez', 'Houssem', 'Taha', 'Amir', 'Ali'];
 var nameInstructors = ['Walid', 'Casseles','Matt', 'Seif'];
 
-var arrayFemales = ['Siwar', 'Nouha'];
-var arrayMales = ['Houss1', 'Houss2', 'Omar', 'Taha', '..........'];
-var arrayInstructors = ['Matt', 'Cassels', 'Walid'];
-
 // 2-write a function that takes an array as an argument and returns the element that is located in the middle of that array.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 function middle(array){
     if (array.length % 2 === 0){
@@ -63,3 +60,6 @@ function doubledEvenIndexes(array) {
     return arr;
 >>>>>>> 5376b93bff4e63df9dd0c62060f660e0e35ed9dc
 }
+=======
+// 3-Change all the numbers in the array to be multiplied by two for even indexes.
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6

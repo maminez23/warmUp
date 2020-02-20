@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // 1-write a function that returns the product of any number by 3.
 // 2-complete the following function multiply to return the result of multiplying of x and y
 function multiply(x,y){
@@ -53,3 +54,13 @@ function sqArea(a) {
 
 
 >>>>>>> 5376b93bff4e63df9dd0c62060f660e0e35ed9dc
+=======
+// 1-write a function that returns the product of any number by 3.
+
+// 2-complete the following function multiply to return the result of multiplying of x and y
+
+// 3-complete the following function that Convert Fahrenheit to Celsius if the module for converting is
+// 	(5/9) * (fahrenheit-32);
+
+// 4-Define a function named "sqArea", and make it display square area if you knew the length of its side.
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6

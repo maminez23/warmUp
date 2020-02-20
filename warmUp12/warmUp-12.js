@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  // 1-implement the function mult that takes a single parameter n, and computes the multiplication of all integers up to n 
  //starting from 0, e.g.:
  mult(3); // => 6
@@ -24,11 +25,18 @@ function mult(n) {
     return multp;
 >>>>>>> 5376b93bff4e63df9dd0c62060f660e0e35ed9dc
 }
+=======
+// 1-implement the function mult that takes a single parameter n, and computes the multiplication of all integers up to n
+//starting from 0, e.g.:
+mult(3); // => 6
+mult(4); // => 24
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
 
 // 2- Use a while loop to build a single string with the numbers 1 through n
-// separated by the number next to the current number. 
+// separated by the number next to the current number.
 //Have it return the new string.
 // eg= 1 2 2 3 3 4 4 5 5 6 6 ...
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 function string(n){
@@ -51,3 +59,5 @@ function stringNumbers(n) {
     return str
 >>>>>>> 5376b93bff4e63df9dd0c62060f660e0e35ed9dc
 }
+=======
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
